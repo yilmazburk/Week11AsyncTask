@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Week11AsyncTask</string>
+    <string name="enter_roll_count">Enter roll count</string>
+    <string name="roll_button">Roll</string>
+</resources>
